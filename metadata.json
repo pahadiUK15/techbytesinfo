@@ -1,0 +1,6 @@
+{
+  "name": "Tech Bytes",
+  "description": "Tech Bytes is your trusted premium IT solutions partner, offering expert onsite hardware repair, server configuration, network setups, customized software licenses, and state-of-the-art AI integration based in Gurgaon, Haryana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
